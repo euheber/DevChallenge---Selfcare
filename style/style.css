@@ -83,11 +83,10 @@ main{
 #products{
     margin-top: 1rem;
     padding: .3rem 1rem;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(3, 1fr);
-    grid-column-gap: 6rem;
-    grid-row-gap: 1.25rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 1rem;
 }
 
 
