@@ -25,7 +25,9 @@ body{
     cursor: pointer;
 }
 
-
+/*.icon:hover{
+ stroke: black;
+}*/
 
 #logo{
     width: 4rem;
@@ -48,6 +50,7 @@ header{
 nav ul { 
     display: flex;
     gap: 1rem;
+    align-items: center;
 }
 
 #banner{
