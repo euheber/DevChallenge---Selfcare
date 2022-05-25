@@ -189,6 +189,7 @@ button:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
+ 
   }
 
   #logo{
@@ -231,6 +232,7 @@ button:hover {
   
   #newsletter{
     border: none;
+    padding-bottom: 0;
   }
 
 }
