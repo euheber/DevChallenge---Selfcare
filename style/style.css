@@ -238,8 +238,11 @@ button:hover{
     border: 1px solid var(--grey);
   }
 
-  #input{
+  #input-box{
     margin-top: 0;
+  }
+
+  #input{
     display: flex;
   }
 
